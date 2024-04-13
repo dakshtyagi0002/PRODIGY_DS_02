@@ -4,7 +4,7 @@ Welcome to the Prodigy InfoTech Internship repository! This repository documents
 
 ## Task Overview
 
-Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identiy patters and trends in the data.
+Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patters and trends in the data.
 
 ## Knowledge Gained
 
